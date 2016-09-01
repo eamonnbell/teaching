@@ -43,7 +43,7 @@ Snodgrass, Jennifer, _Contemporary Musicianship: Analysis and the Artist_ (Oxfor
 ### Recommended
 
 
-Gerou, Tom and Linda Lusk, _Essential Dictionary of Music Notation (Los Angeles: Alfred Publishing Co., 1996)
+Gerou, Tom and Linda Lusk, _Essential Dictionary of Music Notation_ (Los Angeles: Alfred Publishing Co., 1996)
 
 
 ## Required materials
