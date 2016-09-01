@@ -1,6 +1,6 @@
 # Fundamentals of Music
 Instructor: Eamonn Bell
 
-# Syllabus
+## Syllabus
 
-Please find the syllabus for this course [here](teaching/fundamentals_syllabus.md)
+Please find the syllabus for this course [here](fundamentals_syllabus.md)

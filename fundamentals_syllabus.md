@@ -1,6 +1,8 @@
-# Music UN1002 - Fundamentals of Music 
+# Syllabus
 
-(Section 002, Fall 2016)
+## Course name and details
+
+Music UN1002 - Fundamentals of Music  (Fall 2016, Section 002)
 Course meetings: Tuesday/Thursday, 4:10 p.m.–5:25 p.m., 814 Dodge
 Instructor: Eamonn Bell
 
@@ -48,19 +50,19 @@ Gerou, Tom and Linda Lusk, _Essential Dictionary of Music Notation (Los Angeles:
 Please bring these to every class
 
 
-* 8.5 x 11”, 12 five-line staves per page manuscript notebook with perforations 
-* #2 pencil, eraser, and sharpener
+* 8.5 x 11”, 12 five-line staves per page manuscript notebook with perforations.
+* No. 2 pencil, eraser, and sharpener.
 
 
 
 ## Assessment breakdown
 
 
-Final exam (30%)
-Midterm exam (20%)
-Weekly assignments (about 10, each equally-weighted) (20%)
-Quizzes (2, each equally-weighted) (20%)
-Attendance (10%)
+- Final exam (30%)
+- Midterm exam (20%)
+- Weekly assignments (about 10, each equally-weighted) (20%)
+- Quizzes (2, each equally-weighted) (20%)
+- Attendance (10%)
 
 
 
