@@ -2,7 +2,7 @@
 
 ## Course name 
 
-Music UN1002 - Fundamentals of Music  (Fall 2016, Section 002)
+Music UN1002 - Fundamentals of Music (Fall 2016, Section 002)
 
 ## Instructor
 
