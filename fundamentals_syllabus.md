@@ -1,11 +1,20 @@
 # Syllabus
 
-## Course name and details
+## Course name 
 
 Music UN1002 - Fundamentals of Music  (Fall 2016, Section 002)
-Course meetings: Tuesday/Thursday, 4:10 p.m.–5:25 p.m., 814 Dodge
-Instructor: Eamonn Bell
 
+## Instructor
+
+Eamonn Bell
+
+## Course meetings
+
+Tuesday/Thursday, 4:10–5:25 p.m., 814 Dodge
+
+## Office hours
+
+Tuesday, 10–11 a.m., 606 Dodge
 
 ## Short description
 
@@ -21,30 +30,21 @@ Students will develop a practical understanding of select fundamental concepts o
 
 ## Pre-requisites
 
-
 None
-
 
 ## Co-requisites
 
-
 Ear Training 1
-
 
 ## Textbooks
 
-
 ### Required
-
 
 Snodgrass, Jennifer, _Contemporary Musicianship: Analysis and the Artist_ (Oxford; New York, NY: Oxford University Press, 2015)
 
-
 ### Recommended
 
-
 Gerou, Tom and Linda Lusk, _Essential Dictionary of Music Notation_ (Los Angeles: Alfred Publishing Co., 1996)
-
 
 ## Required materials
 Please bring these to every class
@@ -60,8 +60,8 @@ Please bring these to every class
 
 - Final exam (30%)
 - Midterm exam (20%)
-- Weekly assignments (about 10, each equally-weighted) (20%)
-- Quizzes (2, each equally-weighted) (20%)
+- Weekly assignments (about 10, each equally weighted) (20%)
+- Quizzes (2, each equally weighted) (20%)
 - Attendance (10%)
 
 
