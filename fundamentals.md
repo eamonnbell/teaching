@@ -6,4 +6,4 @@ Please find the syllabus for this course [here](fundamentals_syllabus.md)
 
 ## Schedule
 
-Please find the schedule for this course [here (sign-in required)](https://docs.google.com/a/columbia.edu/spreadsheets/d/1qvSb8oa3cFD_894qk9n3DTPP1vN0Xh13Jewo3kw6uUQ/pubhtml?gid=141897498&single=true)
+Please find the schedule for this course [here (sign-in required)](https://docs.google.com/a/columbia.edu/spreadsheets/d/1qvSb8oa3cFD_894qk9n3DTPP1vN0Xh13Jewo3kw6uUQ/pubhtml)
