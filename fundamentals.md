@@ -1,2 +1,2 @@
 # Fundamentals of Music
-Eamonn Bell
+Instructor: Eamonn Bell
