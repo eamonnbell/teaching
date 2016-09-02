@@ -18,15 +18,11 @@ Tuesday, 10–11 a.m., 606 Dodge
 
 ## Short description
 
-
 The goal of this course is to: equip students with the skills required to accurately notate, read, and appreciate music, using staff notation.
-
 
 ## Student learning outcomes
 
-
 Students will develop a practical understanding of select fundamental concepts of music theory including interval, scale, key, triad, rhythm, through their application in written assignments and study of musical scores. Where appropriate, examples will be drawn from a wide range of repertoire. The course will stress the development of fluency in the practices of score-reading and handwritten staff notation, and the development of an appreciation for music and musical culture, while drawing on fundamental concepts of music theory to further these aims.
-
 
 ## Pre-requisites
 
@@ -53,8 +49,6 @@ Please bring these to every class
 * 8.5 x 11”, 12 five-line staves per page manuscript notebook with perforations.
 * No. 2 pencil, eraser, and sharpener.
 
-
-
 ## Assessment breakdown
 
 
@@ -63,8 +57,6 @@ Please bring these to every class
 - Weekly assignments (about 10, each equally weighted) (20%)
 - Quizzes (2, each equally weighted) (20%)
 - Attendance (10%)
-
-
 
 ## Assessment policies
 
@@ -76,10 +68,23 @@ Please bring these to every class
 
 ## Schedule
 
+A full schedule, including reading assignments will be available online - usually you will see about 5–6 class meetings ahead.Please check the course website linked from Courseworks or my personal website (http://www.columbia.edu/~epb2125) for more details and a link to the latest version of the schedule.
 
+### Sketch of the semester
+
+Reading (usually from Snodgrass, though supplemented with handouts) is assigned for every class, and is to be completed in advance of the class for which it is assigned. Assignments are issued weekly (unless a quiz or exam is on the horizon), usually on a Thursday and are due the following Tuesday. Assignments, quizzes, and exams will be returned with a score ex 100 and a letter grade. 
+
+### Important dates
+
+- Tuesday, 10/4 - Quiz 1 (45 minutes, in-class)
+- Tuesday, 10/10 - Last day to drop
+- Thursday, 10/20 - Midterm exam (cumulative, in-class)
+- Tuesday, 11/8 - No class meeting (Election Day)
+- Tuesday, 11/15 - Quiz 2 (45 minutes, in-class)
+- Thursday, 11/24 - No class meeting (Thanksgiving Day)
+- Tuesday, 12/20 - Projected final exam date
 
 ## Attendance
-
 
 Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly. 
 
