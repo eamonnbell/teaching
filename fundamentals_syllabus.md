@@ -16,7 +16,7 @@ Tuesday/Thursday, 4:10–5:25 p.m., 814 Dodge
 
 By appointment. 606 Dodge.
 
-## Short descriptionon, and the development of an appreciation for music and musical culture. Students will draw on the above fundamental 
+## Short description
 
 Introduction to music, including notation, written and aural skills, and basic conceptual resources of music theory. Exploration of scale, mode, rhythm, meter, texture and form, with reference to a diverse range of musics.
 
