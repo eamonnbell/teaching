@@ -87,7 +87,7 @@ Reading (usually from Snodgrass, though supplemented with handouts) is assigned 
 
 Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly. 
 
-The entire attendance element of the grade is awarded automatically; more than two unexcused absences from scheduled class meetings will result in the deduction of 2% (i.e. 20% of the grade element) of the final grade for each additional absence, up to a maximum of 10% (i.e. 100% of the grade element).
+The entire attendance element of the grade is awarded automatically; more than three unexcused absences from scheduled class meetings will result in the deduction of 2% (i.e. 20% of the grade element) of the final grade for each additional absence, up to a maximum of 10% (i.e. 100% of the grade element).
 
 Excusable absences are limited to: (1) absence for religious reasons; (2) absence to facilitate participation in athletics; (3) absence on account of personal illness; (4) absences on account of personal/family emergency.
 
