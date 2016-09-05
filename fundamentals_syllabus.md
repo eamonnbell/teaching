@@ -24,7 +24,7 @@ Introduction to music, including notation, written and aural skills, and basic c
 
 Students will develop a practical understanding of select fundamental concepts of music theory including scale, mode, rhythm, meter, texture and form, through their application in written assignments and study of musical scores. 
 
-Where appropriate, examples will be drawn from a wide range of repertoire. The course will stress the development of fluency in the practices of score-reading and handwritten staff notaticoncepts of music theory to further these aims.
+Where appropriate, examples will be drawn from a wide range of repertoire. The course will stress the development of fluency in the practices of score-reading and handwritten staff notation, drawing on the above concepts of music theory to further these aims.
 
 ## Pre-requisites
 
@@ -76,7 +76,7 @@ Reading (usually from Snodgrass, though supplemented with handouts) is assigned 
 ### Important dates
 
 - Tuesday, 10/4 - Quiz 1 (45 minutes, in-class)
-- Tuesday, 10/10 - Last day to drop
+- Tuesday, 10/11 - Last day to drop
 - Thursday, 10/20 - Midterm exam (cumulative, in-class)
 - Tuesday, 11/8 - No class meeting (Election Day)
 - Tuesday, 11/15 - Quiz 2 (45 minutes, in-class)
