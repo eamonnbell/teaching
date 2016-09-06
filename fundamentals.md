@@ -12,6 +12,8 @@ Please find the schedule for this course [here (sign-in required)](https://docs.
 
 Occasionally, weekly readings or supplements to weekly readings will be posted/linked to from here.
 
+- [Reading due 9/8 (Snodgrass, p. 1-7) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdbS1IQ2ZGZTN3WFU/view)
+
 ## Assignments
 
 Weekly assignments will be available here shortly after the class they were released.
