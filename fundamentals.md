@@ -21,5 +21,5 @@ Weekly assignments will be available here shortly after the class they were rele
 ### Assignment 1 [[pdf]](01.pdf) - Due 9/13 in class
 
 - Question 0 is just a really useful (and optional) online drill. Aim to be able to get 19/20 right in 2 minutes. No need to email me your report [[link]](http://www.musictheory.net/exercises/note/brwyrybynyynry)
-- Question 4 should say "notate above"
+- Question 4 should read "Notate the following whole and half steps above the given pitch as indicated..." (i.e. omit "and below")
 - You can ignore the clef questions referring to the alto clef without penalty. If you like, check out the material [here](https://musictheoryblog.blogspot.com/2006/12/alto-and-tenor-clefs.html) and attempt the questions.
