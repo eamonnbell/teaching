@@ -18,4 +18,6 @@ Occasionally, weekly readings or supplements to weekly readings will be posted/l
 
 Weekly assignments will be available here shortly after the class they were released.
 
-- Assignment 1 [[pdf]](01.pdf) [[link to Question 0 drill - try for 19/20 in 2 minutes]](http://www.musictheory.net/exercises/note/brwyrybynyynry)
+- Assignment 1 [[pdf]](01.pdf)
+    - Question 0 is just a really useful (and optional) online drill. Aim to be able to get 19/20 right in 2 minutes. No need to email me your report [[link]](http://www.musictheory.net/exercises/note/brwyrybynyynry)
+    - You can ignore the clef questions referring to the alto clef without penalty. If you like, check out the material [here](https://musictheoryblog.blogspot.com/2006/12/alto-and-tenor-clefs.html) and attempt the questions.
