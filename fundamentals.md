@@ -16,4 +16,4 @@ Occasionally, weekly readings or supplements to weekly readings will be posted/l
 
 Weekly assignments will be available here shortly after the class they were released.
 
-
+- Assignment 1 [[pdf]](01.pdf) [[link to Question 0 drill - try for 19/20 in 2 minutes]](http://www.musictheory.net/exercises/note/brwyrybynyynry)
