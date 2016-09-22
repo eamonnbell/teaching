@@ -36,3 +36,7 @@ Weekly assignments will be available here shortly after the class they were rele
 - You can ignore the clef questions referring to the alto clef without penalty. If you like, check out the material [here](https://musictheoryblog.blogspot.com/2006/12/alto-and-tenor-clefs.html) and attempt the questions.
 
 ### Assignment 2 [[pdf]](02.pdf) - Due 9/20 in class
+
+### Assignment 3 [[pdf]](03.pdf) - Due 9/27 in class
+
+- Note that you must also email me a completion code to get full credit in this assignment.
