@@ -24,6 +24,7 @@ Occasionally, weekly readings or supplements to weekly readings will be posted/l
 - [Reading due 9/15 (Handout 'More on musical time')](more_on_time.pdf)
 - [Reading due 9/20 (Snodgrass, p. 26-33)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdTmxBWDJtNVhPX0U/view)
 - [Reading due 9/22 (Snodgrass, p. 49-59)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdN3RZUXppdkxDZk0/view)
+- [Reading due 9/27 (Snodgrass, p. 71-81)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdS2dhVWFTd2N3bU0/view)
 
 ## Assignments
 
