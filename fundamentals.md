@@ -41,6 +41,7 @@ Weekly assignments will be available here shortly after the class they were rele
 
 ### Assignment 3 [[pdf]](03.pdf) - Due 9/27 in class
 
+- Note that you must also email me a completion code to get full credit in this assignment.
+
 ### Assignment 4 [[pdf]](04.pdf) - Due 10/11 in class
 
-- Note that you must also email me a completion code to get full credit in this assignment.
