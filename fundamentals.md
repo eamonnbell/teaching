@@ -22,9 +22,9 @@ Occasionally, weekly readings or supplements to weekly readings will be posted/l
 - [Reading due 9/8 (Snodgrass, p. 1-7) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdbS1IQ2ZGZTN3WFU/view)
 - [Reading due 9/13 (Snodgrass, p. 7-14) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdb04yT3VnYkptMDA/view?usp=sharing)
 - [Reading due 9/15 (Handout 'More on musical time')](more_on_time.pdf)
-- [Reading due 9/20 (Snodgrass, p. 26-33)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdTmxBWDJtNVhPX0U/view)
-- [Reading due 9/22 (Snodgrass, p. 49-59)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdN3RZUXppdkxDZk0/view)
-- [Reading due 9/27 (Snodgrass, p. 71-81)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdS2dhVWFTd2N3bU0/view)
+- [Reading due 9/20 (Snodgrass, p. 26-33) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdTmxBWDJtNVhPX0U/view)
+- [Reading due 9/22 (Snodgrass, p. 49-59) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdN3RZUXppdkxDZk0/view)
+- [Reading due 9/27 (Snodgrass, p. 71-81) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdS2dhVWFTd2N3bU0/view)
 - [Reading due 9/29 (Handout 'Transposition')](transp.pdf)
 
 ## Assignments
@@ -44,4 +44,8 @@ Weekly assignments will be available here shortly after the class they were rele
 - Note that you must also email me a completion code to get full credit in this assignment.
 
 ### Assignment 4 [[pdf]](04.pdf) - Due 10/11 in class
+
+### Assignment 5 [[pdf]](05.pdf) - Due 10/18 in class
+
+- Note that you must also email me a completion code to get full credit in this assignment.
 
