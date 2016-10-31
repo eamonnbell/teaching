@@ -53,3 +53,5 @@ Weekly assignments will be available here shortly after the class they were rele
 
 - Note that you must also email me a completion code to get full credit in this assignment.
 
+### Assignment 6 [[pdf]](06.pdf) - Due 11/1 in class
+
