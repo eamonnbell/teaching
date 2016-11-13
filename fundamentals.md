@@ -26,6 +26,7 @@ Occasionally, weekly readings or supplements to weekly readings will be posted/l
 - [Reading due 9/22 (Snodgrass, p. 49-59) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdN3RZUXppdkxDZk0/view)
 - [Reading due 9/27 (Snodgrass, p. 71-81) (sign-in required)](https://drive.google.com/a/columbia.edu/file/d/0BzK7B8W6SItdS2dhVWFTd2N3bU0/view)
 - [Reading due 9/29 (Handout 'Transposition')](transp.pdf)
+- [Handout 'Kinds of Contrapuntal Motion'](motion.pdf)
 
 ### Midterm study guide
 
