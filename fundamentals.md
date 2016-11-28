@@ -60,6 +60,6 @@ Weekly assignments will be available here shortly after the class they were rele
 
 ### Assignment 8 [[pdf]](08.pdf) - Due 11/22 in class
 
-### Assignment 9 - Due 11/29 in class
+### Assignment 9 [[pdf]](09.pdf) - Due 11/29 in class
 
 ### Assignment 10 - Due 12/6 in class
