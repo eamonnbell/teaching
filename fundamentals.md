@@ -32,6 +32,10 @@ Occasionally, weekly readings or supplements to weekly readings will be posted/l
 
 - [Midterm study guide](midterm-guide.pdf)
 
+### Final study guide
+
+- [Final study guide](final-guide.pdf)
+
 ## Assignments
 
 Weekly assignments will be available here shortly after the class they were released.
