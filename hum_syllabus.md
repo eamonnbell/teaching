@@ -55,33 +55,32 @@ A full schedule, including listening and reading assignments will be available o
 
 I expect to cover the following topics, in roughly the following order, with one class meeting devoted to each topic.
 
-Contexts for and meaning of
-Fundamentals of listening
-Things that make music
-Secular and sacred monophony
-Ars antiqua vs. ars nova
-The mass
-Artusi-Monteverdi controversy
-Reformation/counter-reformation
-Early opera
-Concerto grossi and instrumental sonatas
-European Baroque synthesis
-The Keyboard
-Sonata form in the symphony
-Other genres: String quartet and concerto
-Early Romantics
-Romantic opera
-Opera debriefing
-The Lied
-Programme music
-The piano and its challenge to hermeneutics
-Emancipation of dissonance
-New forms and modes of expression
-Talea Ensemble recital
-American modernism
-Control, chance, compromise
-Jazz and popular song
-American vs. European minimalism
+- Contexts for and meaning of
+- Fundamentals of listening
+- Things that make music
+- Secular and sacred monophony
+- Ars antiqua vs. ars nova
+- The mass
+- Artusi-Monteverdi controversy
+- Reformation/counter-reformation
+- Early opera
+- Concerto grossi and instrumental sonatas
+- European Baroque synthesis
+- The Keyboard
+- Sonata form in the symphony
+- Other genres: String quartet and concerto
+- Early Romantics
+- Romantic opera
+- Opera debriefing
+- The _Lied_
+- Programme music
+- The piano and its challenge to hermeneutics
+- Emancipation of dissonance
+- New forms and modes of expression
+- American modernism
+- Control, chance, compromise
+- Jazz and popular song
+- American vs. European minimalism
 
 ### Important dates
 
