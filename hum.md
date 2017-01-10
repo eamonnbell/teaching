@@ -10,10 +10,6 @@ Where sign-in is required:
 
 Please find the syllabus for this course [here](hum_syllabus.md)
 
-## Schedule
-
-This class usually meets on Mondays and Wednesdays during the semester, from 8:40 to 10:00 a.m. in Dodge 404.
-
 ## Listening
 
 It is your responsibility to find a reliable, legitimate, and reasonably high-fidelity sources for assigned listening.
