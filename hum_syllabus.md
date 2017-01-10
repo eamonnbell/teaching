@@ -37,8 +37,8 @@ Used copies are available on [Amazon](https://www.amazon.com/gp/offer-listing/03
 ## Assessment breakdown
 
 - Final exam (40%)
-- Writing assignments (4, each equally weighted) (40%)
-- Weekly scheduled quizzes (about 12, each equally weighted) (10%)
+- Writing assignments (3, each equally weighted) (30%)
+- Weekly scheduled quizzes (about 12, each equally weighted) (20%)
 - Attendance (see below) (10%)
 
 ## Assessment policies
