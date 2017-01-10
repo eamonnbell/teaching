@@ -36,16 +36,18 @@ Used copies are available on [Amazon](https://www.amazon.com/gp/offer-listing/03
 
 ## Assessment breakdown
 
-- Final exam (30%)
-- Weekly quizzes (about 10, each equally weighted) (10%)
-- Papers (3, each equally weighted) (50%)
+- Final exam (40%)
+- Writing assignments (4, each equally weighted) (40%)
+- Weekly scheduled quizzes (about 12, each equally weighted) (10%)
 - Attendance (see below) (10%)
 
 ## Assessment policies
 
-* All assignments must be turned in at the start of the class on the day in which they are due, usually a Monday.
+* All writing assignments must be turned in at the start of the class on the day in which they are due, usually a Monday.
 * Late assignments will only be accepted on the next scheduled class meeting following the original due date of the assignment, and a penalty will be applied when calculating the grade for that assignment (see below). After that date, the score for that assignment will be set to 0%.
 * The value of the final grade for a late assignment will reduced by one fifth (20%). If it is impossible to complete the assignment on time for religious reasons, athletics, or personal/family emergency, please let me know as soon as possible, to make alternative arrangements.
+* Quizzes will be graded as either not satisfactory (NS) or satisfactory (S). The total amount awarded for the grade element is computed based on the number of quizzes completed satisfactorily by the student.
+* Importantly, quizzes may not be retaken or rescheduled. If a student achieves an NS grade in, or is absent for, a quiz for _any_ reason (i.e. excused or no), the student may turn in a shortand original written response to a question relevant to the material examined on that quiz and this response will be graded similarly (not satisfactory/satisfactory) without the option of a redo. These responses will be typically due on the class immediately following the class in which the graded quiz is returned.
 
 ## Schedule
 
@@ -71,7 +73,6 @@ I expect to cover the following topics, in roughly the following order, with one
 - Other genres: String quartet and concerto
 - Early Romantics
 - Romantic opera
-- Opera debriefing
 - The _Lied_
 - Programme music
 - The piano and its challenge to hermeneutics
@@ -86,7 +87,7 @@ I expect to cover the following topics, in roughly the following order, with one
 
 ## Attendance
 
-Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly. 
+Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly at the start of class meetings.
 
 The entire attendance element of the grade is awarded automatically; more than two unexcused absences from scheduled class meetings will result in the deduction of 2% (i.e. 20% of the grade element) of the final grade for each additional absence, up to a maximum of 10% (i.e. 100% of the grade element).
 
