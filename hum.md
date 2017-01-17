@@ -1,4 +1,4 @@
-# Masterpieces of Western Music/Music Humanities (Spring 2017, Section 002) - Home
+# Music Hum (Spring 2017, Section 002) - Home
 
 ## Notes
 
