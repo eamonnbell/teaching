@@ -1,8 +1,12 @@
-# Syllabus
+# Masterpieces of Western Music/Music Humanities (Spring 2017, Section 002) - Syllabus
 
 ## Course name 
 
-Music - Masterpieces of Western Music (Music Humanities) (Spring 2017)
+Masterpieces of Western Music (Music Humanities) (Spring 2017)
+
+## Course code
+
+HUMA 1123 UN
 
 ## Instructor
 
