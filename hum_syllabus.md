@@ -86,21 +86,31 @@ I expect to cover the following topics, in roughly the following order, with one
 
 ### Important dates
 
+- Monday, 1/23 - Petitions period closes
+- Friday, 1/27 (5 p.m.) - Last day to add/drop/change a Core class
+- Friday, 1/30 - First weekly quiz
+- Monday, 2/27 - HW 1 due
+- Monday and Wednesday, 3/13 and 3/15 - No class meeting (Spring break)
+- Monday, 3/20 - HW 2 due
+- Saturday, 3/25 (evening) Opera excursion (tbc)
+- Monday, 5/1 - HW 3 due
+
 ## Attendance
 
-> Students are expected to attend every session of their Core classes [...] Students who miss class without instructor permission should expect to have their grade lowered. Core instructors have discretion as to the specifics of their invidual attendance requirements within these general parameters. Students are responsible for familiarizing themselves with their specific instructor's expectations and requirements (all Core instructors outline attendance and grading policies on their class syllabus).
+"Students are expected to attend every session of their Core classes [...] Students who miss class without instructor permission should expect to have their grade lowered. Core instructors have discretion as to the specifics of their in[di]vidual attendance requirements within these general parameters. Students are responsible for familiarizing themselves with their specific instructor's expectations and requirements (all Core instructors outline attendance and grading policies on their class syllabus)."
 
 The above is taken from the Core policy on attendance detailed [here](https://www.college.columbia.edu/core/reg).
 
-Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly at the start of class meetings. 
+Accordingly, attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly at the start of class meetings. The entire attendance element of the course grade is awarded automatically; more than two unexcused absences from scheduled class meetings will result in the deduction of 2% (i.e. 20% of the grade element) of the final grade for each additional absence, up to a maximum of 10% (i.e. 100% of the grade element).
 
-The entire attendance element of the grade is awarded automatically; more than two unexcused absences from scheduled class meetings will result in the deduction of 2% (i.e. 20% of the grade element) of the final grade for each additional absence, up to a maximum of 10% (i.e. 100% of the grade element).
-
-Excusable absences are limited to: (1) absence for religious reasons; (2) absence to facilitate participation in athletics; (3) absence on account of personal illness; (4) absences on account of personal/family emergency.
+Excusable absences are strictly limited to: (1) absence for religious reasons; (2) absence to facilitate participation in athletics; (3) absence on account of personal illness; (4) absences on account of personal/family emergency.
 
 Advance notification is required in order for your absence to be excused in the case of (2) only; it is appreciated in all other cases. Of course, I understand this is not always possible. Please contact me as soon as possible to be excused from class. Suitable written evidence (e.g. physician’s letter) may be required in some cases. You may consult my records of your attendance at any time. 
 
+You are also required to attend a performance of Verdi's _La traviata_ at the Metropolitan Opera. The ticket cost is $5, the result of a signficiant subsidy bythe University in recognition of the unique opportunity it affords students. We are provisionally scheduled to attend on Saturday 25 March, from 8:30 p.m. to late. 
+
 ## Academic Integrity
+
 Adapted from [Faculty Statement on Academic Integrity](https://www.college.columbia.edu/academics/integrity-statement)
 
 The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity. As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity.
