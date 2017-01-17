@@ -92,7 +92,7 @@ I expect to cover the following topics, in roughly the following order, with one
 - Monday, 2/27 - HW 1 due
 - Monday and Wednesday, 3/13 and 3/15 - No class meeting (Spring break)
 - Monday, 3/20 - HW 2 due
-- Saturday, 3/25 (evening) Opera excursion (tbc)
+- Saturday, 3/25 (evening) - Opera excursion (tbc)
 - Monday, 5/1 - HW 3 due
 
 ## Attendance
