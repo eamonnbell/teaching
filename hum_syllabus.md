@@ -2,11 +2,11 @@
 
 ## Course name 
 
-Music - Masterpieces of Western Music (Music Humanities) (Spring 2017, Section TBD)
+Music - Masterpieces of Western Music (Music Humanities) (Spring 2017)
 
 ## Instructor
 
-Eamonn Bell <epb2125@columbia.edu>
+Eamonn Bell (<epb2125@columbia.edu>)
 
 ## Course meetings
 
@@ -16,13 +16,10 @@ Twice weekly on Monday and Wednesday, 8:40-9:55 a.m., 405 Dodge
 
 Mondays 2-3 p.m.
 
-## Short description
+## Learning outcomes
 
 Masterpieces of Western Music aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the issues of various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times.
 
-## Student learning outcomes
-
-TBD
 
 ## Pre-requisites
 
@@ -47,7 +44,7 @@ Used copies are available on [Amazon](https://www.amazon.com/gp/offer-listing/03
 * Late assignments will only be accepted on the next scheduled class meeting following the original due date of the assignment, and a penalty will be applied when calculating the grade for that assignment (see below). After that date, the score for that assignment will be set to 0%.
 * The value of the final grade for a late assignment will reduced by one fifth (20%). If it is impossible to complete the assignment on time for religious reasons, athletics, or personal/family emergency, please let me know as soon as possible, to make alternative arrangements.
 * Quizzes will be graded as either not satisfactory (NS) or satisfactory (S). The total amount awarded for the grade element is computed based on the number of quizzes completed satisfactorily by the student.
-* Importantly, quizzes may not be retaken or rescheduled. If a student achieves an NS grade in, or is absent for, a quiz for _any_ reason (i.e. excused or no), the student may turn in a shortand original written response to a question relevant to the material examined on that quiz and this response will be graded similarly (not satisfactory/satisfactory) without the option of a redo. These responses will be typically due on the class immediately following the class in which the graded quiz is returned.
+* Importantly, quizzes may not be retaken or rescheduled. If a student achieves an NS grade in, or is absent for, a quiz for _any_ reason (i.e. excused or no), the student may turn in a short and original written response to a question relevant to the material examined on that quiz and this response will be graded similarly (not satisfactory/satisfactory) without the option of a redo. These responses will be typically due on the class immediately following the class in which the graded quiz is returned.
 
 ## Schedule
 
@@ -87,7 +84,11 @@ I expect to cover the following topics, in roughly the following order, with one
 
 ## Attendance
 
-Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly at the start of class meetings.
+> Students are expected to attend every session of their Core classes [...] Students who miss class without instructor permission should expect to have their grade lowered. Core instructors have discretion as to the specifics of their invidual attendance requirements within these general parameters. Students are responsible for familiarizing themselves with their specific instructor's expectations and requirements (all Core instructors outline attendance and grading policies on their class syllabus).
+
+The above is taken from the Core policy on attendance detailed [here](https://www.college.columbia.edu/core/reg).
+
+Attendance at scheduled class meetings, quizzes and examinations is a requirement of this course, and will be recorded regularly at the start of class meetings. 
 
 The entire attendance element of the grade is awarded automatically; more than two unexcused absences from scheduled class meetings will result in the deduction of 2% (i.e. 20% of the grade element) of the final grade for each additional absence, up to a maximum of 10% (i.e. 100% of the grade element).
 
