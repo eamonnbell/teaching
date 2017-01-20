@@ -90,7 +90,7 @@ I expect to cover the following topics, in roughly the following order, with one
 
 - Monday, 1/23 - Petitions period closes
 - Friday, 1/27 (5 p.m.) - Last day to add/drop/change a Core class
-- Friday, 1/30 - First weekly quiz
+- Monday, 1/30 - First weekly quiz
 - Monday, 2/27 - HW 1 due
 - Monday and Wednesday, 3/13 and 3/15 - No class meeting (Spring break)
 - Monday, 3/20 - HW 2 due
