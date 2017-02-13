@@ -26,11 +26,11 @@ The [Full course schedule](https://docs.google.com/document/d/15cjrACmZeAe51Hgzc
 
 #### Requirements
 
-Please find the writing prompt distributed in class [here]().
+Please find the writing prompt distributed in class [here](https://docs.google.com/document/d/1Itb_hqQDY-BSF5doQ_j1rKxwH0LoDvOvw23-boF0Kvs/pub).
 
 #### Reference recordings
 
-- "Morir non può il mio cuore" (“My heart cannot die”), Maddalena Casulano (1566) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdd3FQU3Fyd3JXTlk)
+- "Morir non può il mio cuore" (“My heart cannot die”), Maddalena Casulana (1566) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdd3FQU3Fyd3JXTlk)
 - “As Vesta was from Latmos hill descending,” Thomas Weelkes (1601) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdblRPbkgwWmk4TFk)
 - “Quivi sospiri pianti” (“Their sighs, lamentations...”), Luzzascho Luzzaschi (1576) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdOHlySmFUS3VwUlU)
 

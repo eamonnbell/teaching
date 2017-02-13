@@ -109,7 +109,7 @@ Excusable absences are strictly limited to: (1) absence for religious reasons; (
 
 Advance notification is required in order for your absence to be excused in the case of (2) only; it is appreciated in all other cases. Of course, I understand this is not always possible. Please contact me as soon as possible to be excused from class. Suitable written evidence (e.g. physician’s letter) may be required in some cases. You may consult my records of your attendance at any time. 
 
-You are also required to attend a performance of Verdi's _La traviata_ at the Metropolitan Opera. The ticket cost is $5, the result of a signficiant subsidy by the University in recognition of the unique opportunity it affords students. We are provisionally scheduled to attend on Saturday 25 March, from 8:30 p.m. to late. 
+You are also required to attend a performance of Verdi's _La traviata_ at the Metropolitan Opera. The ticket cost is $5, the result of a signficiant subsidy by the University in recognition of the unique opportunity it affords students. We are scheduled to attend on Saturday 25 March, from 8:30 p.m. to late. 
 
 ## Academic Integrity
 
