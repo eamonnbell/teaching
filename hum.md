@@ -30,11 +30,13 @@ Please find the writing prompt distributed in class [here](https://docs.google.c
 
 #### Reference recordings
 
-- "Morir non può il mio cuore" (“My heart cannot die”), Maddalena Casulana (1566) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdd3FQU3Fyd3JXTlk)
-- “As Vesta was from Latmos hill descending,” Thomas Weelkes (1601) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdblRPbkgwWmk4TFk)
-- “Quivi sospiri pianti” (“Their sighs, lamentations...”), Luzzascho Luzzaschi (1576) [mp3](https://drive.google.com/open?id=0BzK7B8W6SItdOHlySmFUS3VwUlU)
+- "Morir non può il mio cuore" (“My heart cannot die”), Maddalena Casulana (1566) [[mp3]](https://drive.google.com/open?id=0BzK7B8W6SItdd3FQU3Fyd3JXTlk)
+- “As Vesta was from Latmos hill descending,” Thomas Weelkes (1601) [[mp3]](https://drive.google.com/open?id=0BzK7B8W6SItdblRPbkgwWmk4TFk)
+- “Quivi sospiri pianti” (“Their sighs, lamentations...”), Luzzascho Luzzaschi (1576) [[mp3]](https://drive.google.com/open?id=0BzK7B8W6SItdOHlySmFUS3VwUlU)
 
 ### General resources
+
+Please find a link to the [texts and translations](https://docs.google.com/document/d/1EqqVUWNoHfoCCwns_6iiJYRRPEjB9U6zIhroVLyvFSU/pub)
 
 ## Quizzes
 
