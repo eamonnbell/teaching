@@ -34,9 +34,22 @@ Please find the writing prompt distributed in class [here](https://docs.google.c
 - “As Vesta was from Latmos hill descending,” Thomas Weelkes (1601) [[mp3]](https://drive.google.com/open?id=0BzK7B8W6SItdblRPbkgwWmk4TFk)
 - “Quivi sospiri pianti” (“Their sighs, lamentations...”), Luzzascho Luzzaschi (1576) [[mp3]](https://drive.google.com/open?id=0BzK7B8W6SItdOHlySmFUS3VwUlU)
 
-### General resources
+### Assignment 2 - Music and expression
 
-Please find a link to the [texts and translations](https://docs.google.com/document/d/1EqqVUWNoHfoCCwns_6iiJYRRPEjB9U6zIhroVLyvFSU/pub)
+Please find the writing prompt distributed in class [here](https://docs.google.com/document/d/1xfaUC3RtRE2b7E0JdISBxGGZwMTUI4MbSCIpv97FN_Y/pub).
+
+### Assignment 3 - Experimental and avant-garde music
+
+#### Requirements
+
+Please find the writing prompt distributed in class [here](https://docs.google.com/document/d/1WaMRO5uZeQLHxWZaO-H2lzekjaY7y_jX_WTAQ1uwDRY/pub).
+
+#### Reference recordings
+
+- Georges Aperghis, [“Retrouvailles”](http://www.youtube.com/watch?v=0-3LFmAf_DM) (2013)
+- Tom Johnson, [“Failing: A Very Difficult Piece for String Bass”](http://www.youtube.com/watch?v=9P8C6-XqaNs) (1975)
+- Steve Reich, [“Pendulum Music”](http://www.youtube.com/watch?v=fU6qDeJPT-w) (1968)
+- Meredith Monk, [“Dolmen Music”](http://www.youtube.com/watch?v=7su7d76LhWg) (1980/1)
 
 ## Quizzes
 
