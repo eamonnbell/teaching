@@ -1,5 +1,7 @@
 # Music Hum (Spring 2017, Section 002) - Home
 
+Attention: The final examination for this section will take place in Dodge 405 on Monday 5/8 from 9:00 a.m. to 11:30 a.m. (2 hours and 30 minutes).
+
 ## Notes
 
 Where sign-in is required:
@@ -52,5 +54,7 @@ Please find the writing prompt distributed in class [here](https://docs.google.c
 - Meredith Monk, [“Dolmen Music”](http://www.youtube.com/watch?v=7su7d76LhWg) (1980/1)
 
 ## Quizzes
+
+[Link to quizzes](https://drive.google.com/drive/u/1/folders/0BzK7B8W6SItdR1JadkdEMWVhazA)
 
 The make-up question will be available at the [full course schedule](https://docs.google.com/document/d/15cjrACmZeAe51HgzcpIClHJbnf9bX4Eoc06b7jnE2gU/pub) shortly after the class in which they were issued.
