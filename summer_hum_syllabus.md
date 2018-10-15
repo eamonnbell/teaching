@@ -1,4 +1,4 @@
-# Music Hum (Summer Session 2, 2018) - Syllabus
+# Music Hum (Summer Session D, 2018) - Syllabus
 
 ## Course name 
 

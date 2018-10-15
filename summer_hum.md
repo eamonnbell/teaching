@@ -24,10 +24,6 @@ The [Full course schedule]() includes all reading and listening assignments, and
 
 ### Assignment 1 - The madrigal and text expression
 
-#### Requirements
-
-Please find the writing prompt distributed in class [here](https://docs.google.com/document/d/1Itb_hqQDY-BSF5doQ_j1rKxwH0LoDvOvw23-boF0Kvs/pub).
-
 #### Reference recordings
 
 - "Morir non può il mio cuore" (“My heart cannot die”), Maddalena Casulana (1566) [[mp3]](https://drive.google.com/open?id=0BzK7B8W6SItdd3FQU3Fyd3JXTlk)
@@ -36,13 +32,7 @@ Please find the writing prompt distributed in class [here](https://docs.google.c
 
 ### Assignment 2 - Music and expression
 
-Please find the writing prompt distributed in class [here](https://docs.google.com/document/d/1xfaUC3RtRE2b7E0JdISBxGGZwMTUI4MbSCIpv97FN_Y/pub).
-
 ### Assignment 3 - Experimental and avant-garde music
-
-#### Requirements
-
-Please find the writing prompt distributed in class [here](https://docs.google.com/document/d/1WaMRO5uZeQLHxWZaO-H2lzekjaY7y_jX_WTAQ1uwDRY/pub).
 
 #### Reference recordings
 
